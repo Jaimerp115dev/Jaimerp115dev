@@ -1,5 +1,5 @@
-<h1 align="center">Hola 👋! Me llamo Jaime Rodríguez</h1>
-<h3 align="center">Desarrollador DAM y soy de Málaga</h3>
+<h1 align="center"¡Hola 👋! Me llamo Jaime Rodríguez</h1>
+<h3 align="center">Soy desarrollador DAM en Málaga📍 </h3>
 
 - 👨‍💻 Mi portfolio web [Jaimerp115.dev](Jaimerp115.dev)
 
