@@ -2,7 +2,7 @@
 <h3 align="center">Desarrollador de aplicaciones multiplataforma en Málaga📍</h3>
 
 
-- 👨‍💻 Mi portfolio web [Jaimerp115.dev](https://jaimerp115.dev/)
+- 👨‍💻 Mi portfolio web [WIP] [Jaimerp115.dev](https://jaimerp115.dev/)
 
 - 📫 Ponte en contacto conmigo **rpjaime115@gmail.com**
 
