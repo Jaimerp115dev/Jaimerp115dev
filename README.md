@@ -1,5 +1,5 @@
 
-<h1 align="center"¡Hola 👋! Me llamo Jaime Rodríguez</h1>
+<h1 align="center">¡Hola 👋! Me llamo Jaime Rodríguez</h1>
 <h3 align="center">Desarrollador de aplicaciones multiplataforma en Málaga📍</h3>
 
 
