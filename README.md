@@ -1,6 +1,6 @@
 <h1 align="center"¡Hola 👋! Me llamo Jaime Rodríguez</h1>
-<h3 align="center">Desarrollador de aplicaciones multiplataforma </h3>
-<h4>Málaga📍</h4>
+<h3 align="center">Desarrollador de aplicaciones multiplataforma en Málaga📍</h3>
+
 
 - 👨‍💻 Mi portfolio web [Jaimerp115.dev](https://jaimerp115.dev/)
 
