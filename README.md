@@ -1,6 +1,6 @@
 
 <h1 align="center">¡Hola 👋! Me llamo Jaime</h1>
-<h3 align="center">Desarrollador de aplicaciones multiplataforma en Málaga📍</h3>
+<h3 align="center">Desarrollador Backend en Málaga📍</h3>
 
 
 - 👨‍💻 Mi portfolio web [WIP] [Jaimerp115.dev](https://jaimerp115.dev/)
